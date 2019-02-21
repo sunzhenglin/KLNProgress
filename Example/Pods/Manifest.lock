@@ -1,0 +1,16 @@
+PODS:
+  - KLNProgress (0.1.0)
+
+DEPENDENCIES:
+  - KLNProgress (from `../`)
+
+EXTERNAL SOURCES:
+  KLNProgress:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KLNProgress: 34805406f6d30d49b4f7d08f104d60d13f838615
+
+PODFILE CHECKSUM: 478a4280fa35390bff0eb146d39dcddfaeff708d
+
+COCOAPODS: 1.5.0

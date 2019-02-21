@@ -1,0 +1,6 @@
+framework module KLNProgress {
+  umbrella header "KLNProgress-umbrella.h"
+
+  export *
+  module * { export * }
+}

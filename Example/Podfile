@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'KLNProgress_Example' do
+  pod 'KLNProgress', :path => '../'
+
+  target 'KLNProgress_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module Pods_KLNProgress_Example {
+  umbrella header "Pods-KLNProgress_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

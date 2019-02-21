@@ -1,0 +1,22 @@
+{
+  "name": "KLNProgress",
+  "version": "0.1.0",
+  "summary": "A short description of KLNProgress.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/907689522@qq.com/KLNProgress",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "907689522@qq.com": "xtz_pioneer@163.com"
+  },
+  "source": {
+    "git": "https://github.com/907689522@qq.com/KLNProgress.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KLNProgress/Classes/**/*"
+}
